@@ -87,19 +87,19 @@ Successfully generated, detected, investigated, and documented failed authentica
 ## Investigation Screenshots
 
 ### 1. Wazuh Agents Active
-![Wazuh Agents Active](01-wazuh-agents-active.png.png)
+![Wazuh Agents Active](01-wazuh-agents-active.png)
 
 ### 2. Endpoint Health Check
-![Endpoint Health Check](02-endpoint-health-check.png.png)
+![Endpoint Health Check](02-endpoint-health-check.png)
 
 ### 3. Failed Login Generated
-![Failed Login Generated](03-failed-logon-generated.png.png)
+![Failed Login Generated](03-failed-logon-generated.png)
 
 ### 4. Kali Failed Login Events
-![Kali Failed Login Events](04-Kali-Failed-Login_Events.png.png)
+![Kali Failed Login Events](04-Kali-Failed-Login_Events.png)
 
 ### 5. Event Details
-![Event Details](05-Event-Details.png.png)
+![Event Details](05-Event-Details.png)
 
 ### 6. Failed-to-Successful Login Timeline
-![Failed-to-Successful Login Timeline](06-Fail-To-Successful-Login-Timeline.png.png)
+![Failed-to-Successful Login Timeline](06-Fail-To-Successful-Login-Timeline.png)
