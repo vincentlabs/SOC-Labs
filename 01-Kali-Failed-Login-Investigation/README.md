@@ -82,3 +82,24 @@ The investigation followed these steps:
 ## Outcome
 
 Successfully generated, detected, investigated, and documented failed authentication events using Wazuh SIEM in a home SOC lab environment. This exercise demonstrates the ability to identify authentication failures, analyze security telemetry, correlate related events, and document findings using industry-standard methodologies.
+---
+
+## Investigation Screenshots
+
+### 1. Wazuh Agents Active
+![Wazuh Agents Active](01-wazuh-agents-active.png.png)
+
+### 2. Endpoint Health Check
+![Endpoint Health Check](02-endpoint-health-check.png.png)
+
+### 3. Failed Login Generated
+![Failed Login Generated](03-failed-logon-generated.png.png)
+
+### 4. Kali Failed Login Events
+![Kali Failed Login Events](04-Kali-Failed-Login_Events.png.png)
+
+### 5. Event Details
+![Event Details](05-Event-Details.png.png)
+
+### 6. Failed-to-Successful Login Timeline
+![Failed-to-Successful Login Timeline](06-Fail-To-Successful-Login-Timeline.png.png)
