@@ -55,14 +55,25 @@ As part of a simulated SOC investigation, a new Active Directory user account wa
 
 ---
 
-## Screenshots
+## Investigation Screenshots
 
-1. Wazuh Search Results
-2. Event Details
-3. User Creation Fields
-4. Active Directory Verification
-5. Event Source
-6. Event Timestamp
+### 1. Wazuh Search Results
+![Wazuh Search](01-Wazuh-Search-EventID-4720.png)
+
+### 2. Event Details
+![Event Details](02-Wazuh-EventID-4720-Details.png)
+
+### 3. User Creation Fields
+![User Creation](03-User-Creation-Fields.png)
+
+### 4. Active Directory Verification
+![Active Directory](04-Active-Directory-User-Verified.png)
+
+### 5. Event Source
+![Event Source](05-Event-Source.png)
+
+### 6. Event Timestamp
+![Event Timestamp](06-Event-Timestamp.png)
 
 ---
 
