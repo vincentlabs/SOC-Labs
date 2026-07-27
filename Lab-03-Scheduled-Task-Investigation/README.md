@@ -67,19 +67,19 @@ This exercise reinforced the importance of validating both Windows logging and S
 ## Screenshots
 
 ### 01 – Threat Hunting Home
-Wazuh Threat Hunting dashboard before beginning the investigation.
+![01-Threat-Hunting-Home](01-Threat-Hunting-Home.png)
 
 ### 02 – Created Scheduled Task
-Created the scheduled task **LabPersistenceTest** using Windows Task Scheduler.
+![02-Created-Scheduled-Task](02-Created-Scheduled-Task.png)
 
 ### 03 – Scheduled Task Detected
-Wazuh successfully detected Event ID 4698 after the audit policy was enabled.
+![03-Scheduled-Task-Detected](03-Scheduled-Task-Detected.png)
 
 ### 04 – Wazuh Event 4698 Details
-Detailed event information showing the scheduled task creation.
+![04-Wazuh-Event-4698-Details](04-Wazuh-Event-4698-Details.png)
 
 ### 05 – MITRE ATT&CK Mapping
-MITRE ATT&CK technique associated with the scheduled task creation event.
+![05-MITRE-Mapping](05-MITRE-Mapping.png)
 
 ---
 
