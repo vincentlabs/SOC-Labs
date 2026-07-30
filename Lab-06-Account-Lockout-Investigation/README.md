@@ -47,11 +47,20 @@ A Windows Account Lockout Policy was configured in the domain and Advanced Audit
 
 ## Investigation Screenshots
 
-1. Configure Account Lockout Policy
-2. Enable Account Lockout Auditing
-3. Account Locked Out
-4. Wazuh Threat Hunting Dashboard
-5. Verified Locked-Out User and Source Workstation
+### 1. Configure Account Lockout Policy
+![Configure Account Lockout Policy](01-Created-Account-Lockout-Policy.png)
+
+### 2. Enable Account Lockout Auditing
+![Enable Account Lockout Auditing](02-Enabled-Account-Lockout-Auditing.png)
+
+### 3. Account Locked Out
+![Account Locked Out](03-Account-Lockout.png)
+
+### 4. Wazuh Threat Hunting Dashboard
+![Wazuh Threat Hunting Dashboard](04-Wazuh-Threat-Hunting-Dashboard.png)
+
+### 5. Verified Locked-Out User and Source Workstation
+![Verified Locked-Out User and Source Workstation](05-Verified-Locked-Out-User-and-Source-Workstation.png)
 
 ---
 
