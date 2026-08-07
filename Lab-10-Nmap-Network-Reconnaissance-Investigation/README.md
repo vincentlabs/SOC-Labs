@@ -42,7 +42,7 @@ This reconnaissance demonstrated how an attacker can identify exposed network se
 
 ### Evidence
 
-![Kali Nmap Open Ports Scan](01-Kali-Nmap-Open-Ports-Scan)
+![Kali Nmap Open Ports Scan](01-Kali-Nmap-Open-Ports-Scan.png)
 
 ---
 
